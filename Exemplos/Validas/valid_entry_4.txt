@@ -1,0 +1,1 @@
+selecione produtos que possui não preço menor que 50

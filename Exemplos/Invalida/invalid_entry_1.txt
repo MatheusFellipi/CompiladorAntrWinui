@@ -1,0 +1,1 @@
+selecione produtos que possui preço ~= 100

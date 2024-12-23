@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "CompiladorAntrWinui (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "CompiladorAntrWinui (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}

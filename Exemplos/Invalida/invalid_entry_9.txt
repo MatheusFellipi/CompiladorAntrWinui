@@ -1,0 +1,1 @@
+selecione clientes que possui cidade igual a São Paulo

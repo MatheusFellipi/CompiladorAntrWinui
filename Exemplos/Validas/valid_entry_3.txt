@@ -1,0 +1,1 @@
+selecione clientes que possui idade maior que 25 e cidade igual a "São Paulo"
